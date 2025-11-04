@@ -28,7 +28,7 @@
          </section>
         
         <footer>
-            <p>Copyright © Mathieu Mangeot</p>
+            <p>Copyright © Alexandre VIgier</p>
         </footer>
     </body>
 </html>
