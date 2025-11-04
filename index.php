@@ -7,20 +7,15 @@
 </head>
 <body>
     <header id="entete">
-        <!-- en-tête -->
             <h1>Document minimal en MMI</h1>
-        <nav>
-        <!-- menu principal -->
-        </nav>
      </header>        
-        
-        <!-- partie principale -->
+
         <section id="Titre">
             <h2>Titre de section</h2>
          </section>
         
         <footer>
-        <!-- pied de page -->
+
             <p>Copyright © Mathieu Mangeot</p>
         </footer>
 </body>
