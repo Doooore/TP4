@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>TP4</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="Style/Style.css">
     </head>
     <body>
         <header id="entete">
@@ -21,12 +21,12 @@
             <imput type="password" name="motdepasse" required>
             <br>
             <br>
-            <button type="submite">Se connecter </button>
+            <button type="submite">Se connecter</button>
         </form>
             
 
         <section id="Titre">
-            <h2>Titre de section</h2>
+            <h3>Titre de section</h3>
          </section>
         
         <footer>
