@@ -14,11 +14,11 @@
         
         <form action="connexion.php">
             <label>Identifiant : </label>
-            <imput type="text" name="identifiant" required>
+            <input type="text" name="identifiant" required>
             <br>
             <br>
             <label>Mot de passe : </label>
-            <imput type="password" name="motdepasse" required>
+            <input type="password" name="motdepasse" required>
             <br>
             <br>
             <button type="submite">Se connecter</button>
