@@ -1,4 +1,4 @@
-<?php include('entete.php')?>
+<?php include('entete.php');?>
 
    <body>
         <header id="entete">
@@ -24,6 +24,6 @@
             <h3>Titre de section</h3>
          </section>
     </body>
- <?php include('pieddepage.php')?>
+ <?php include('pieddepage.php');?>
 
 
