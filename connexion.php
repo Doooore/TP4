@@ -6,7 +6,7 @@
     <h2>
         <?php $identifiant = $_REQUEST["identifiant"]; 
         echo "Bonjour ", $identifiant; ?>
-    <h2>
+    </h2>
 
 
  <?php include('pieddepage.php');?>
