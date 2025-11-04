@@ -15,7 +15,7 @@
         <form action="connexion.php">
             <label>Identifiant:</label>
             <imput type="text" name="identifiant" required>
-
+            <br>
             <label>Mot de passe:</label>
             <imput type="password" name="motdepasse" required>
 
@@ -28,7 +28,7 @@
          </section>
         
         <footer>
-            <p>Copyright © Alexandre VIgier</p>
+            <p>Copyright © Alexandre Vigier</p>
         </footer>
     </body>
 </html>
