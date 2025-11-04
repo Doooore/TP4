@@ -16,8 +16,10 @@
             <label>Identifiant : </label>
             <imput type="text" name="identifiant" required>
             <br>
+            <br>
             <label>Mot de passe : </label>
             <imput type="password" name="motdepasse" required>
+            <br>
             <br>
             <button type="submite">Se connecter </button>
         </form>
