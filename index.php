@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="fr" prefix="og: https://ogp.me/ns#">
-    <head>
-        <meta charset="utf-8" />
-        <title>TP4</title>
-        <link rel="stylesheet" href="Style/Style.css">
-    </head>
-    <body>
+<?php include('entete.php')?>
+
+   <body>
         <header id="entete">
             <h1>Document minimal en MMI</h1>
         </header>        
@@ -28,9 +23,7 @@
         <section id="Titre">
             <h3>Titre de section</h3>
          </section>
-        
-        <footer>
-            <p>Copyright © Alexandre Vigier</p>
-        </footer>
     </body>
-</html>
+ <?php include('pieddepage.php')?>
+
+
