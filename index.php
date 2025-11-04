@@ -28,7 +28,7 @@
          </section>
         
         <footer>
-            <p>Copyright © Alexandre VIgier</p>
+            <p>Copyright © Alexandre Vigier</p>
         </footer>
     </body>
 </html>
