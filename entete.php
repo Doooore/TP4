@@ -1,3 +1,4 @@
+<html>
 <html lang="fr" prefix="og: https://ogp.me/ns#">
     <head>
         <meta charset="utf-8" />
