@@ -7,7 +7,7 @@
     </head>
     <body>
         <header id="entete">
-           <h1>Document minimal en MMI</h1>
+            <h1>Document minimal en MMI</h1>
         </header>        
 
         <h1>Connexion</h1>
