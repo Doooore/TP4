@@ -1,5 +1,5 @@
-<footer>
-    <p>Copyright © Alexandre Vigier</p>
-</footer>
+    <footer>
+        <p>Copyright © Alexandre Vigier</p>
+    </footer>
 </body>
 </html>
