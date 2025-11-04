@@ -1,10 +1,6 @@
 <?php include('entete.php');?>
 
    <body>
-        <header id="entete">
-            <h1>Document minimal en MMI</h1>
-        </header>        
-
         <h1>Connexion</h1>
         
         <form action="connexion.php">
@@ -18,11 +14,7 @@
             <br>
             <button type="submite">Se connecter</button>
         </form>
-            
 
-        <section id="Titre">
-            <h3>Titre de section</h3>
-         </section>
     </body>
  <?php include('pieddepage.php');?>
 
