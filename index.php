@@ -13,10 +13,10 @@
         <h1>Connexion</h1>
         
         <form action="connexion.php">
-            <label>Identifiant:</label>
+            <label>Identifiant : </label>
             <imput type="text" name="identifiant" required>
             <br>
-            <label>Mot de passe:</label>
+            <label>Mot de passe : </label>
             <imput type="password" name="motdepasse" required>
             <br>
             <button type="submite">Se connecter </button>
