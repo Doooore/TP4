@@ -1,5 +1,7 @@
 <?php include('entete.php');?>
-
+    <header>
+        <h1>TP4 Connexion</h1>
+    </header>
    <body>
         <h1>Connexion</h1>
         
