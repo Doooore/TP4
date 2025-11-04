@@ -1,7 +1,6 @@
-#entete{
-    color:darkblue;
+body #entete {
+  color: darkblue;
 }
-
-#Titre{
-    color:darkviolet;
-}
+body #Titre {
+  color: darkblue;
+}/*# sourceMappingURL=Style.css.map */
