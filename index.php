@@ -3,9 +3,10 @@
 <head>
   <meta charset="utf-8" />
   <title>TP4</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header id="entete">
         <!-- en-tête -->
             <h1>Document minimal en MMI</h1>
         <nav>
@@ -14,7 +15,7 @@
      </header>        
         
         <!-- partie principale -->
-        <section>
+        <section id="Titre">
             <h2>Titre de section</h2>
          </section>
         
