@@ -6,7 +6,10 @@
         <h1>Bienvenue</h1>
         <br>
         <h2>Connectez vous<h2>
+
+        
     </body>
+
  <?php include('pieddepage.php');?>
 
 
