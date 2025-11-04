@@ -4,7 +4,7 @@
     </header>
    <body>
         <?php $identifiant = $_REQUEST["identifiant"]; 
-        echo "Bonjour "$identifiant; ?>
+        echo "Bonjour ", $identifiant; ?>
 
 
  <?php include('pieddepage.php');?>
